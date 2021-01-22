@@ -97,7 +97,7 @@
     </dependency>
   </dependencies>
   <build>
-    <!--    Jin分支修改-->
+    <!--    JinX分支修改-->
     <plugins>
       <plugin>
         <groupId>org.apache.tomcat.maven</groupId>
